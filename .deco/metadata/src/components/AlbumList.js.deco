@@ -1,0 +1,66 @@
+{
+	"liveValues": [
+		{
+			"range": {
+				"from": {
+					"line": 26,
+					"ch": 25
+				},
+				"to": {
+					"line": 26,
+					"ch": 27
+				}
+			},
+			"type": "number",
+			"name": "Margin",
+			"group": "PROGRESS VIEW IOS"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 27,
+					"ch": 24
+				},
+				"to": {
+					"line": 27,
+					"ch": 27
+				}
+			},
+			"type": "number",
+			"name": "Width",
+			"max": 600,
+			"group": "PROGRESS VIEW IOS"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 29,
+					"ch": 25
+				},
+				"to": {
+					"line": 29,
+					"ch": 27
+				}
+			},
+			"type": "number",
+			"name": "Progress",
+			"group": "PROGRESS VIEW IOS"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 30,
+					"ch": 34
+				},
+				"to": {
+					"line": 30,
+					"ch": 54
+				}
+			},
+			"editWith": "colorPicker",
+			"type": "string",
+			"name": "ProgressTintColor",
+			"group": "PROGRESS VIEW IOS"
+		}
+	]
+}
